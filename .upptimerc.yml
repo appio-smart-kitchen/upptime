@@ -8,7 +8,7 @@ sites:
   - name: Panel Appio
     url: https://panel.appio.com.mx
   - name: Staging Panel Apio
-    url: https://stagingpanel.appio.com.mx
+    url: https://staginsgpanel.appio.com.mx
 assignees:
   - Esaud17
 status-website:
