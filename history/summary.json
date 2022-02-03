@@ -22,35 +22,39 @@
     "url": "https://panel.appio.com.mx",
     "icon": "https://favicons.githubusercontent.com/panel.appio.com.mx",
     "slug": "panel-appio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 464,
     "timeDay": 464,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 1
+    }
   },
   {
     "name": "Staging Panel Apio",
     "url": "https://stagingpanel.appio.com.mx",
     "icon": "https://favicons.githubusercontent.com/stagingpanel.appio.com.mx",
     "slug": "staging-panel-apio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 577,
     "timeDay": 577,
     "timeWeek": 577,
     "timeMonth": 577,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   }
 ]
