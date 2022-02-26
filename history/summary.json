@@ -42,18 +42,19 @@
     "url": "https://stagingpanel.appio.com.mx",
     "icon": "https://favicons.githubusercontent.com/stagingpanel.appio.com.mx",
     "slug": "staging-panel-apio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 577,
-    "timeDay": 450,
-    "timeWeek": 584,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 570,
+    "timeDay": 403,
+    "timeWeek": 555,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2022-02-03": 35
     }
   }
