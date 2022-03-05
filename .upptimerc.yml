@@ -7,8 +7,18 @@ sites:
     url: https://registro.appio.com.mx
   - name: Panel Appio
     url: https://panel.appio.com.mx
+  - name: Appio Api
+    url: https://api.appio.com.mx/api/v2/upptime/validate
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Staging Panel Apio
     url: https://stagingpanel.appio.com.mx
+  - name: Staging Appio Api
+    url: https://stagingapi.appio.com.mx/api/v2/upptime/validate 
+    expectedStatusCodes:
+      - 200
+      - 404
 assignees:
   - Esaud17
 status-website:
