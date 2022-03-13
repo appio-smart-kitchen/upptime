@@ -4,19 +4,19 @@
     "url": "https://registro.appio.com.mx",
     "icon": "https://favicons.githubusercontent.com/registro.appio.com.mx",
     "slug": "registro-appio",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.76%",
-    "time": 877,
-    "timeDay": 1149,
-    "timeWeek": 1024,
-    "timeMonth": 959,
-    "timeYear": 877,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "92.62%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.73%",
+    "time": 874,
+    "timeDay": 1112,
+    "timeWeek": 1008,
+    "timeMonth": 953,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2022-03-13": 88,
+      "2022-03-13": 106,
       "2022-03-12": 15,
       "2022-03-05": 26
     }
@@ -48,19 +48,19 @@
     "url": "https://api.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://favicons.githubusercontent.com/api.appio.com.mx",
     "slug": "appio-api",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 479,
-    "timeDay": 543,
-    "timeWeek": 500,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 473,
+    "timeDay": 525,
+    "timeWeek": 491,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-03-13": 72
+      "2022-03-13": 91
     }
   },
   {
@@ -91,18 +91,18 @@
     "icon": "https://favicons.githubusercontent.com/stagingapi.appio.com.mx",
     "slug": "staging-appio-api",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.19%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 512,
     "timeDay": 523,
     "timeWeek": 506,
     "timeMonth": 512,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2022-03-13": 72
+      "2022-03-13": 92
     }
   }
 ]
