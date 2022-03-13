@@ -4,11 +4,11 @@
     "url": "https://registro.appio.com.mx",
     "icon": "https://favicons.githubusercontent.com/registro.appio.com.mx",
     "slug": "registro-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
     "time": 816,
     "timeDay": 838,
@@ -16,6 +16,7 @@
     "timeMonth": 892,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-03-12": 15,
       "2022-03-05": 26
     }
@@ -26,11 +27,11 @@
     "icon": "https://favicons.githubusercontent.com/panel.appio.com.mx",
     "slug": "panel-appio",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 601,
     "timeDay": 672,
     "timeWeek": 729,
@@ -47,9 +48,9 @@
     "url": "https://api.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://favicons.githubusercontent.com/api.appio.com.mx",
     "slug": "appio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +59,9 @@
     "timeWeek": 455,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Staging Panel Apio",
@@ -66,11 +69,11 @@
     "icon": "https://favicons.githubusercontent.com/stagingpanel.appio.com.mx",
     "slug": "staging-panel-apio",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 618,
     "timeDay": 670,
     "timeWeek": 785,
@@ -87,9 +90,9 @@
     "url": "https://stagingapi.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://favicons.githubusercontent.com/stagingapi.appio.com.mx",
     "slug": "staging-appio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +101,8 @@
     "timeWeek": 487,
     "timeMonth": 502,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   }
 ]
