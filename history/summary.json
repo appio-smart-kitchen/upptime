@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/registro.appio.com.mx",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "96.58%",
+    "uptime": "96.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.80%",
-    "uptimeMonth": "77.69%",
-    "uptimeYear": "96.58%",
+    "uptimeWeek": "11.71%",
+    "uptimeMonth": "76.98%",
+    "uptimeYear": "96.48%",
     "time": 949,
     "timeDay": 0,
     "timeWeek": 540,
     "timeMonth": 1014,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2022-08-28": 69,
+      "2022-08-28": 381,
       "2022-08-27": 1440,
       "2022-08-26": 1440,
       "2022-08-25": 1440,
@@ -135,5 +135,23 @@
       "2022-06-02": 30,
       "2022-03-13": 222
     }
+  },
+  {
+    "name": "Staging Api Appio Core",
+    "url": "https://api-staging.appio.com.mx/api/v2/upptime/validate",
+    "icon": "https://favicons.githubusercontent.com/api-staging.appio.com.mx",
+    "slug": "staging-api-appio-core",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 134,
+    "timeDay": 134,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   }
 ]
