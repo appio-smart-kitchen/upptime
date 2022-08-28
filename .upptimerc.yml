@@ -19,6 +19,10 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
+  - name: Staging Api Appio Core 
+    url: https://api-staging.appio.com.mx/api/v2/upptime/validate
+    expectedStatusCodes:
+      - 200
 assignees:
   - Esaud17
 status-website:
