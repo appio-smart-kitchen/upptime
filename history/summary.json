@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "up",
-    "uptime": "94.80%",
+    "uptime": "94.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.30%",
     "time": 875,
-    "timeDay": 697,
-    "timeWeek": 761,
-    "timeMonth": 807,
-    "timeYear": 833,
+    "timeDay": 618,
+    "timeWeek": 719,
+    "timeMonth": 809,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2022-09-18": 522,
       "2022-09-17": 1440,
@@ -44,8 +44,7 @@
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1319,
-      "2022-08-05": 824,
-      "2022-08-04": 359
+      "2022-08-05": 824
     }
   },
   {
@@ -59,16 +58,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 340,
-    "timeDay": 168,
-    "timeWeek": 236,
-    "timeMonth": 233,
+    "time": 339,
+    "timeDay": 114,
+    "timeWeek": 152,
+    "timeMonth": 232,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2022-10-08": 15,
       "2022-09-15": 23,
-      "2022-08-05": 318,
-      "2022-08-04": 107
+      "2022-08-05": 318
     }
   },
   {
@@ -77,21 +75,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.appio.com.mx.ico",
     "slug": "appio-api",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 405,
-    "timeDay": 168,
-    "timeWeek": 145,
-    "timeMonth": 961,
-    "timeYear": 331,
+    "time": 409,
+    "timeDay": 2455,
+    "timeWeek": 469,
+    "timeMonth": 502,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2022-09-20": 63,
       "2022-09-01": 15,
-      "2022-08-05": 453,
-      "2022-08-04": 89
+      "2022-08-05": 453
     }
   },
   {
@@ -106,13 +103,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 315,
-    "timeDay": 139,
-    "timeWeek": 165,
-    "timeMonth": 203,
-    "timeYear": 197,
+    "timeDay": 110,
+    "timeWeek": 167,
+    "timeMonth": 202,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-08-05": 373,
-      "2022-08-04": 177
+      "2022-08-05": 373
     }
   },
   {
@@ -127,9 +123,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.66%",
     "time": 417,
-    "timeDay": 148,
-    "timeWeek": 163,
-    "timeMonth": 148,
+    "timeDay": 361,
+    "timeWeek": 198,
+    "timeMonth": 154,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2023-07-05": 23,
@@ -138,8 +134,7 @@
       "2022-10-25": 1142,
       "2022-10-24": 7,
       "2022-08-30": 32,
-      "2022-08-05": 356,
-      "2022-08-04": 143
+      "2022-08-05": 356
     }
   }
 ]
