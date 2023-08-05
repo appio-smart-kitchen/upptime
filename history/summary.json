@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "up",
-    "uptime": "94.81%",
+    "uptime": "94.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.30%",
-    "time": 875,
-    "timeDay": 618,
-    "timeWeek": 719,
-    "timeMonth": 809,
-    "timeYear": 832,
+    "uptimeYear": "92.38%",
+    "time": 866,
+    "timeDay": 679,
+    "timeWeek": 694,
+    "timeMonth": 810,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2022-09-18": 522,
       "2022-09-17": 1440,
@@ -43,8 +43,7 @@
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
-      "2022-08-22": 1319,
-      "2022-08-05": 824
+      "2022-08-22": 1319
     }
   },
   {
@@ -57,16 +56,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 339,
-    "timeDay": 114,
-    "timeWeek": 152,
-    "timeMonth": 232,
+    "uptimeYear": "99.93%",
+    "time": 270,
+    "timeDay": 94,
+    "timeWeek": 143,
+    "timeMonth": 230,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2022-10-08": 15,
-      "2022-09-15": 23,
-      "2022-08-05": 318
+      "2022-09-15": 23
     }
   },
   {
@@ -79,16 +77,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 409,
-    "timeDay": 2455,
-    "timeWeek": 469,
-    "timeMonth": 502,
-    "timeYear": 336,
+    "uptimeYear": "99.90%",
+    "time": 408,
+    "timeDay": 63,
+    "timeWeek": 465,
+    "timeMonth": 499,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2022-09-20": 63,
-      "2022-09-01": 15,
-      "2022-08-05": 453
+      "2022-09-01": 15
     }
   },
   {
@@ -101,15 +98,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 315,
-    "timeDay": 110,
-    "timeWeek": 167,
-    "timeMonth": 202,
+    "uptimeYear": "99.93%",
+    "time": 252,
+    "timeDay": 304,
+    "timeWeek": 182,
+    "timeMonth": 197,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2022-08-05": 373
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging Appio Api",
@@ -121,20 +116,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.66%",
-    "time": 417,
-    "timeDay": 361,
-    "timeWeek": 198,
-    "timeMonth": 154,
-    "timeYear": 356,
+    "uptimeYear": "99.68%",
+    "time": 416,
+    "timeDay": 71,
+    "timeWeek": 194,
+    "timeMonth": 153,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2023-07-05": 23,
       "2023-02-20": 28,
       "2023-02-18": 72,
       "2022-10-25": 1142,
       "2022-10-24": 7,
-      "2022-08-30": 32,
-      "2022-08-05": 356
+      "2022-08-30": 32
     }
   }
 ]
