@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.72%",
+    "uptimeYear": "97.99%",
     "time": 854,
-    "timeDay": 631,
-    "timeWeek": 760,
-    "timeMonth": 816,
+    "timeDay": 997,
+    "timeWeek": 814,
+    "timeMonth": 819,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2022-09-18": 522,
@@ -22,8 +22,7 @@
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
-      "2022-09-12": 1440,
-      "2022-09-11": 1440
+      "2022-09-12": 1440
     }
   },
   {
@@ -37,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 229,
-    "timeDay": 261,
-    "timeWeek": 241,
-    "timeMonth": 207,
+    "time": 228,
+    "timeDay": 155,
+    "timeWeek": 174,
+    "timeMonth": 205,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2022-10-08": 15,
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 351,
-    "timeDay": 92,
-    "timeWeek": 139,
+    "time": 350,
+    "timeDay": 109,
+    "timeWeek": 133,
     "timeMonth": 214,
-    "timeYear": 293,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-09-20": 63
     }
@@ -78,9 +77,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 129,
-    "timeWeek": 209,
+    "time": 214,
+    "timeDay": 178,
+    "timeWeek": 194,
     "timeMonth": 234,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -96,9 +95,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 363,
-    "timeDay": 106,
-    "timeWeek": 132,
+    "time": 362,
+    "timeDay": 89,
+    "timeWeek": 133,
     "timeMonth": 138,
     "timeYear": 323,
     "dailyMinutesDown": {
