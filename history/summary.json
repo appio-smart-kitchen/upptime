@@ -5,20 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "up",
-    "uptime": "95.18%",
+    "uptime": "95.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
-    "time": 854,
-    "timeDay": 625,
-    "timeWeek": 781,
-    "timeMonth": 814,
+    "uptimeYear": "99.36%",
+    "time": 853,
+    "timeDay": 681,
+    "timeWeek": 780,
+    "timeMonth": 815,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2022-09-18": 522,
-      "2022-09-17": 1440,
-      "2022-09-16": 1440
+      "2022-09-17": 1440
     }
   },
   {
@@ -31,12 +30,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 152,
-    "timeWeek": 178,
+    "timeDay": 165,
+    "timeWeek": 179,
     "timeMonth": 206,
-    "timeYear": 216,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2022-10-08": 15
     }
@@ -52,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 345,
-    "timeDay": 239,
-    "timeWeek": 233,
-    "timeMonth": 229,
+    "time": 344,
+    "timeDay": 112,
+    "timeWeek": 239,
+    "timeMonth": 217,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2022-09-20": 63
@@ -72,9 +71,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 190,
-    "timeWeek": 158,
+    "time": 209,
+    "timeDay": 159,
+    "timeWeek": 154,
     "timeMonth": 215,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -90,9 +89,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 358,
-    "timeDay": 94,
-    "timeWeek": 136,
+    "time": 357,
+    "timeDay": 148,
+    "timeWeek": 135,
     "timeMonth": 136,
     "timeYear": 323,
     "dailyMinutesDown": {
