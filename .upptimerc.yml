@@ -53,4 +53,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
+
 # See https://upptime.js.org/docs/configuration
