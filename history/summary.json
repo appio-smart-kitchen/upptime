@@ -130,19 +130,19 @@
     "url": "https://api.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://icons.duckduckgo.com/ip3/api.appio.com.mx.ico",
     "slug": "appio-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 91,
-    "timeWeek": 81,
-    "timeMonth": 163,
-    "timeYear": 284,
+    "timeDay": 101,
+    "timeWeek": 85,
+    "timeMonth": 161,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 5
     }
   },
   {
