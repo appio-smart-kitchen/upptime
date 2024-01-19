@@ -132,18 +132,16 @@
     "slug": "appio-api",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
     "timeDay": 101,
     "timeWeek": 85,
     "timeMonth": 161,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2024-01-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging Panel Apio",
