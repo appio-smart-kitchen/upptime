@@ -171,19 +171,19 @@
     "url": "https://stagingapi.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://icons.duckduckgo.com/ip3/stagingapi.appio.com.mx.ico",
     "slug": "staging-appio-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 280,
-    "timeDay": 240,
-    "timeWeek": 131,
+    "timeDay": 192,
+    "timeWeek": 127,
     "timeMonth": 111,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-03-25": 0,
+      "2024-03-25": 12,
       "2023-07-05": 23
     }
   }
