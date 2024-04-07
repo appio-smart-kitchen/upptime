@@ -115,9 +115,9 @@
     "url": "https://paymentapi.appio.com.mx/api",
     "icon": "https://icons.duckduckgo.com/ip3/paymentapi.appio.com.mx.ico",
     "slug": "payment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -127,6 +127,7 @@
     "timeMonth": 1791,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2024-04-07": 0,
       "2024-03-02": 16
     }
   },
