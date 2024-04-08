@@ -22,11 +22,11 @@
     "url": "https://growth.appio.com.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/growth.appio.com.mx.ico",
     "slug": "growth-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 594,
     "timeDay": 6554,
@@ -34,7 +34,7 @@
     "timeMonth": 868,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2024-04-08": 41
+      "2024-04-08": 42
     }
   },
   {
@@ -118,18 +118,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/paymentapi.appio.com.mx.ico",
     "slug": "payment-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 670,
     "timeDay": 140,
     "timeWeek": 1127,
     "timeMonth": 1615,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-04-08": 7,
       "2024-04-07": 16,
       "2024-03-02": 16
     }
