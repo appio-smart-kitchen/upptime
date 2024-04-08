@@ -22,19 +22,19 @@
     "url": "https://growth.appio.com.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/growth.appio.com.mx.ico",
     "slug": "growth-appio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 594,
-    "timeDay": 6554,
-    "timeWeek": 2369,
-    "timeMonth": 868,
-    "timeYear": 594,
+    "time": 593,
+    "timeDay": 4987,
+    "timeWeek": 2161,
+    "timeMonth": 851,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-04-08": 42
+      "2024-04-08": 58
     }
   },
   {
