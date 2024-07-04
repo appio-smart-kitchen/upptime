@@ -1,7 +1,7 @@
 url: https://api.appio.com.mx/api/v2/upptime/validate
 status: up
 code: 200
-responseTime: 82
-lastUpdated: 2024-07-02T23:17:27.001Z
-startTime: Sat Mar 05 2022 20:03:06 GMT+0000 (Coordinated Universal Time)
+responseTime: 226
+lastUpdated: 2024-07-04T23:18:29.282Z
+startTime: 2022-03-05T20:03:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
