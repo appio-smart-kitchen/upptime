@@ -1,7 +1,7 @@
 url: https://api.appio.com.mx/api/v2/upptime/validate
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-23T08:34:54.940Z
+status: up
+code: 200
+responseTime: 575
+lastUpdated: 2024-07-23T08:42:41.561Z
 startTime: 2022-03-05T20:03:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
