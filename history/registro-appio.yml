@@ -1,7 +1,7 @@
 url: https://registro.appio.com.mx
-status: up
-code: 200
-responseTime: 837
-lastUpdated: 2024-08-17T23:16:48.025Z
+status: down
+code: 500
+responseTime: 306
+lastUpdated: 2024-08-18T11:35:27.984Z
 startTime: 2022-02-03T19:41:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
