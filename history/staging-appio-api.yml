@@ -1,7 +1,7 @@
 url: https://stagingapi.appio.com.mx/api/v2/upptime/validate
-status: down
-code: 500
-responseTime: 99
-lastUpdated: 2024-08-18T11:35:42.230Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2024-08-18T11:42:23.476Z
 startTime: 2022-03-05T20:03:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
