@@ -119,8 +119,8 @@
   },
   {
     "name": "Payment Api",
-    "url": "https://paymentapi.appio.com.mx/api",
-    "icon": "https://icons.duckduckgo.com/ip3/paymentapi.appio.com.mx.ico",
+    "url": "https://payapi.appio.com.mx/api",
+    "icon": "https://icons.duckduckgo.com/ip3/payapi.appio.com.mx.ico",
     "slug": "payment-api",
     "status": "up",
     "uptime": "99.99%",
@@ -137,6 +137,24 @@
       "2024-04-07": 16,
       "2024-03-02": 16
     }
+  },
+  {
+    "name": "Dev Payment Api",
+    "url": "https://dev-payapi.appio.com.mx/api",
+    "icon": "https://icons.duckduckgo.com/ip3/dev-payapi.appio.com.mx.ico",
+    "slug": "dev-payment-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 12439,
+    "timeDay": 12439,
+    "timeWeek": 12439,
+    "timeMonth": 12439,
+    "timeYear": 12439,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Appio Api",
