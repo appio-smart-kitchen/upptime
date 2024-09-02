@@ -19,7 +19,12 @@ sites:
       - 200
       - 404
   - name: Payment Api
-    url: https://paymentapi.appio.com.mx/api
+    url: https://payapi.appio.com.mx/api
+    expectedStatusCodes:
+      - 200
+      - 404
+  - name: Dev Payment Api
+    url: https://dev-payapi.appio.com.mx/api
     expectedStatusCodes:
       - 200
       - 404
