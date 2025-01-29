@@ -6,18 +6,16 @@
     "slug": "delivery-appio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 593,
     "timeWeek": 494,
     "timeMonth": 415,
     "timeYear": 351,
-    "dailyMinutesDown": {
-      "2025-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Growth Appio",
@@ -26,9 +24,9 @@
     "slug": "growth-appio",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 439,
     "timeDay": 560,
@@ -36,7 +34,6 @@
     "timeMonth": 427,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-01-29": 8,
       "2024-04-08": 58
     }
   },
@@ -47,18 +44,16 @@
     "slug": "gaming-appio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 754,
     "timeWeek": 500,
     "timeMonth": 415,
     "timeYear": 381,
-    "dailyMinutesDown": {
-      "2025-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Registro Appio",
@@ -90,29 +85,27 @@
     "slug": "panel-appio",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
     "timeDay": 387,
     "timeWeek": 226,
     "timeMonth": 212,
     "timeYear": 179,
-    "dailyMinutesDown": {
-      "2025-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Delivery Api",
     "url": "https://deliveryapi.appio.com.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/deliveryapi.appio.com.mx.ico",
     "slug": "delivery-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 158,
     "timeDay": 116,
@@ -120,7 +113,7 @@
     "timeMonth": 194,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-01-29": 6,
+      "2025-01-29": 1,
       "2024-09-13": 42,
       "2024-05-13": 22,
       "2024-03-15": 37,
@@ -216,18 +209,19 @@
     "url": "https://stagingapi.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://icons.duckduckgo.com/ip3/stagingapi.appio.com.mx.ico",
     "slug": "staging-appio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
-    "time": 146,
+    "time": 151,
     "timeDay": 78,
     "timeWeek": 136,
     "timeMonth": 197,
     "timeYear": 142,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-09-18": 933,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
