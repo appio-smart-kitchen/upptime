@@ -7,8 +7,6 @@ sites:
     url: https://delivery.appio.com.mx/
   - name: Growth Appio
     url: https://growth.appio.com.mx/
-  - name: Gaming Appio
-    url: https://gaming.appio.com.mx/
   - name: Registro Appio
     url: https://registro.appio.com.mx
   - name: Panel Appio
