@@ -11,6 +11,8 @@ sites:
     url: https://registro.appio.com.mx
   - name: Panel Appio
     url: https://panel.appio.com.mx
+  - name: Automate Appio
+    url: https://automate.appio.com.mx
   - name: Delivery Api
     url: https://deliveryapi.appio.com.mx/
     expectedStatusCodes:
