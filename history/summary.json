@@ -42,9 +42,9 @@
     "url": "https://registro.appio.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -54,6 +54,7 @@
     "timeMonth": 854,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2024-12-03": 75,
       "2024-07-29": 16,
       "2024-06-02": 112,
@@ -133,7 +134,7 @@
     "timeDay": 391,
     "timeWeek": 328,
     "timeMonth": 238,
-    "timeYear": 3050,
+    "timeYear": 3058,
     "dailyMinutesDown": {}
   },
   {
