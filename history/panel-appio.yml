@@ -1,7 +1,7 @@
 url: https://panel.appio.com.mx
-status: up
-code: 200
-responseTime: 190
-lastUpdated: 2025-04-26T23:20:45.271Z
+status: down
+code: 500
+responseTime: 23055
+lastUpdated: 2025-04-27T06:19:56.467Z
 startTime: 2022-02-03T19:41:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
