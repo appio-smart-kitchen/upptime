@@ -44,7 +44,7 @@
     "uptime": "95.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.62%",
+    "uptimeMonth": "35.61%",
     "uptimeYear": "94.59%",
     "time": 877,
     "timeDay": 0,
@@ -52,7 +52,7 @@
     "timeMonth": 858,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2025-04-27": 412,
+      "2025-04-27": 418,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -84,19 +84,19 @@
     "url": "https://panel.appio.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/panel.appio.com.mx.ico",
     "slug": "panel-appio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 11866,
-    "timeWeek": 4921,
-    "timeMonth": 1597,
-    "timeYear": 316,
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 301,
+    "timeDay": 11585,
+    "timeWeek": 5425,
+    "timeMonth": 1850,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-04-27": 21
+      "2025-04-27": 27
     }
   },
   {
