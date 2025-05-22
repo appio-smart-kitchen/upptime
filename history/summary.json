@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "93.94%",
+    "uptime": "93.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.81%",
+    "uptimeYear": "87.65%",
     "time": 883,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-05-22": 71,
+      "2025-05-22": 946,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -128,9 +128,9 @@
     "url": "https://automate.appio.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/automate.appio.com.mx.ico",
     "slug": "automate-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,7 +139,9 @@
     "timeWeek": 206,
     "timeMonth": 227,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   },
   {
     "name": "Delivery Api",
