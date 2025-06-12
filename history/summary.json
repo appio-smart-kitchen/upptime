@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "92.33%",
+    "uptime": "92.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.08%",
+    "uptimeYear": "81.88%",
     "time": 889,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2025-06-12": 72,
+      "2025-06-12": 1108,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -207,9 +207,9 @@
     "url": "https://dev-payapi.appio.com.mx/api",
     "icon": "https://icons.duckduckgo.com/ip3/dev-payapi.appio.com.mx.ico",
     "slug": "dev-payment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,7 +218,9 @@
     "timeWeek": 166,
     "timeMonth": 208,
     "timeYear": 2282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Appio Api",
