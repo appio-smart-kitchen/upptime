@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 301,
-    "timeWeek": 379,
-    "timeMonth": 418,
+    "timeDay": 304,
+    "timeWeek": 374,
+    "timeMonth": 417,
     "timeYear": 421,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 360,
-    "timeWeek": 392,
-    "timeMonth": 419,
+    "time": 390,
+    "timeDay": 366,
+    "timeWeek": 397,
+    "timeMonth": 417,
     "timeYear": 414,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "85.88%",
+    "uptime": "85.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.88%",
-    "time": 977,
+    "uptimeYear": "56.61%",
+    "time": 978,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-09-12": 63,
+      "2025-09-13": 61,
+      "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -225,9 +226,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 242,
-    "timeWeek": 178,
+    "time": 371,
+    "timeDay": 168,
+    "timeWeek": 183,
     "timeMonth": 259,
     "timeYear": 441,
     "dailyMinutesDown": {
@@ -245,11 +246,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 242,
-    "timeDay": 245,
-    "timeWeek": 213,
-    "timeMonth": 216,
-    "timeYear": 242,
+    "time": 241,
+    "timeDay": 220,
+    "timeWeek": 217,
+    "timeMonth": 215,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-05-22": 38
     }
@@ -265,14 +266,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 159,
-    "timeWeek": 213,
-    "timeMonth": 202,
+    "time": 186,
+    "timeDay": 128,
+    "timeWeek": 205,
+    "timeMonth": 199,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-01-29": 16,
-      "2024-09-13": 42
+      "2025-01-29": 16
     }
   },
   {
@@ -287,10 +287,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2258,
-    "timeDay": 500,
-    "timeWeek": 239,
-    "timeMonth": 223,
-    "timeYear": 1028,
+    "timeDay": 127,
+    "timeWeek": 203,
+    "timeMonth": 218,
+    "timeYear": 1009,
     "dailyMinutesDown": {}
   },
   {
@@ -304,11 +304,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1831,
-    "timeDay": 161,
-    "timeWeek": 195,
-    "timeMonth": 314,
-    "timeYear": 1807,
+    "time": 1826,
+    "timeDay": 126,
+    "timeWeek": 190,
+    "timeMonth": 312,
+    "timeYear": 1790,
     "dailyMinutesDown": {
       "2025-06-12": 58
     }
@@ -325,16 +325,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 238,
-    "timeDay": 201,
-    "timeWeek": 151,
-    "timeMonth": 149,
+    "timeDay": 123,
+    "timeWeek": 156,
+    "timeMonth": 147,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2025-04-04": 48,
       "2024-12-11": 72,
       "2024-10-23": 62,
-      "2024-10-22": 19,
-      "2024-09-13": 153
+      "2024-10-22": 19
     }
   },
   {
@@ -349,9 +348,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 192,
-    "timeWeek": 170,
-    "timeMonth": 186,
+    "timeDay": 145,
+    "timeWeek": 167,
+    "timeMonth": 184,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -367,9 +366,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 161,
-    "timeDay": 131,
-    "timeWeek": 121,
-    "timeMonth": 154,
+    "timeDay": 122,
+    "timeWeek": 123,
+    "timeMonth": 155,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2025-01-29": 15,
@@ -377,8 +376,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
-      "2024-09-14": 1440,
-      "2024-09-13": 202
+      "2024-09-14": 1440
     }
   }
 ]
