@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 456,
-    "timeWeek": 315,
-    "timeMonth": 408,
-    "timeYear": 421,
+    "time": 395,
+    "timeDay": 237,
+    "timeWeek": 304,
+    "timeMonth": 404,
+    "timeYear": 420,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 376,
-    "timeWeek": 364,
-    "timeMonth": 409,
-    "timeYear": 415,
+    "timeDay": 324,
+    "timeWeek": 367,
+    "timeMonth": 400,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "85.62%",
+    "uptime": "85.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.78%",
-    "time": 980,
+    "uptimeYear": "55.51%",
+    "time": 981,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 892,
+    "timeYear": 889,
     "dailyMinutesDown": {
-      "2025-09-16": 64,
+      "2025-09-17": 64,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
@@ -229,11 +230,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 180,
-    "timeWeek": 190,
-    "timeMonth": 257,
-    "timeYear": 440,
+    "time": 370,
+    "timeDay": 88,
+    "timeWeek": 174,
+    "timeMonth": 253,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2025-04-27": 21
     }
@@ -249,11 +250,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 241,
-    "timeDay": 169,
-    "timeWeek": 219,
-    "timeMonth": 218,
-    "timeYear": 241,
+    "time": 240,
+    "timeDay": 167,
+    "timeWeek": 214,
+    "timeMonth": 217,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-05-22": 38
     }
@@ -270,9 +271,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 132,
-    "timeWeek": 167,
-    "timeMonth": 187,
+    "timeDay": 117,
+    "timeWeek": 137,
+    "timeMonth": 185,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-01-29": 16
@@ -290,9 +291,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2258,
-    "timeDay": 193,
-    "timeWeek": 221,
-    "timeMonth": 219,
+    "timeDay": 147,
+    "timeWeek": 210,
+    "timeMonth": 217,
     "timeYear": 992,
     "dailyMinutesDown": {}
   },
@@ -307,11 +308,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1813,
-    "timeDay": 203,
-    "timeWeek": 194,
-    "timeMonth": 306,
-    "timeYear": 1751,
+    "time": 1809,
+    "timeDay": 141,
+    "timeWeek": 160,
+    "timeMonth": 303,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2025-06-12": 58
     }
@@ -328,10 +329,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 238,
-    "timeDay": 115,
-    "timeWeek": 140,
-    "timeMonth": 146,
-    "timeYear": 158,
+    "timeDay": 105,
+    "timeWeek": 135,
+    "timeMonth": 142,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2025-04-04": 48,
       "2024-12-11": 72,
@@ -351,10 +352,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 204,
-    "timeWeek": 187,
-    "timeMonth": 186,
-    "timeYear": 189,
+    "timeDay": 110,
+    "timeWeek": 174,
+    "timeMonth": 183,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -367,16 +368,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.56%",
     "time": 161,
-    "timeDay": 161,
-    "timeWeek": 134,
-    "timeMonth": 155,
+    "timeDay": 63,
+    "timeWeek": 123,
+    "timeMonth": 150,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2025-01-29": 15,
-      "2024-09-18": 933,
-      "2024-09-17": 1440
+      "2024-09-18": 933
     }
   }
 ]
