@@ -6,25 +6,27 @@
     "slug": "delivery-appio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
+    "time": 373,
     "timeDay": 343,
     "timeWeek": 261,
     "timeMonth": 275,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   },
   {
     "name": "Growth Appio",
     "url": "https://growth.appio.com.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/growth.appio.com.mx.ico",
     "slug": "growth-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 322,
     "timeMonth": 323,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   },
   {
     "name": "Registro Appio",
@@ -41,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "76.57%",
+    "uptime": "76.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.05%",
+    "uptimeYear": "12.94%",
     "time": 902,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2026-02-19": 107,
+      "2026-02-19": 671,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -378,9 +382,9 @@
     "url": "https://panel.appio.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/panel.appio.com.mx.ico",
     "slug": "panel-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -390,6 +394,7 @@
     "timeMonth": 169,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2025-04-27": 21
     }
   },
@@ -398,9 +403,9 @@
     "url": "https://automate.appio.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/automate.appio.com.mx.ico",
     "slug": "automate-appio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -410,6 +415,7 @@
     "timeMonth": 217,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2025-12-27": 58,
       "2025-05-22": 38
     }
@@ -419,9 +425,9 @@
     "url": "https://deliveryapi.appio.com.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/deliveryapi.appio.com.mx.ico",
     "slug": "delivery-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -430,43 +436,48 @@
     "timeWeek": 140,
     "timeMonth": 134,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   },
   {
     "name": "Payment Api",
     "url": "https://payapi.appio.com.mx/api",
     "icon": "https://icons.duckduckgo.com/ip3/payapi.appio.com.mx.ico",
     "slug": "payment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
+    "time": 583,
     "timeDay": 157,
     "timeWeek": 161,
     "timeMonth": 162,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   },
   {
     "name": "Dev Payment Api",
     "url": "https://dev-payapi.appio.com.mx/api",
     "icon": "https://icons.duckduckgo.com/ip3/dev-payapi.appio.com.mx.ico",
     "slug": "dev-payment-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1247,
+    "time": 1249,
     "timeDay": 5994,
     "timeWeek": 985,
     "timeMonth": 2490,
     "timeYear": 471,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2025-06-12": 58
     }
   },
@@ -475,9 +486,9 @@
     "url": "https://api.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://icons.duckduckgo.com/ip3/api.appio.com.mx.ico",
     "slug": "appio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -487,6 +498,7 @@
     "timeMonth": 115,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2025-04-04": 48
     }
   },
@@ -495,9 +507,9 @@
     "url": "https://stagingpanel.appio.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/stagingpanel.appio.com.mx.ico",
     "slug": "staging-panel-apio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -506,16 +518,18 @@
     "timeWeek": 173,
     "timeMonth": 169,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   },
   {
     "name": "Staging Appio Api",
     "url": "https://stagingapi.appio.com.mx/api/v2/upptime/validate",
     "icon": "https://icons.duckduckgo.com/ip3/stagingapi.appio.com.mx.ico",
     "slug": "staging-appio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -524,6 +538,8 @@
     "timeWeek": 109,
     "timeMonth": 117,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   }
 ]
