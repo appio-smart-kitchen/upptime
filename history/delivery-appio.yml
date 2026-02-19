@@ -1,7 +1,7 @@
 url: https://delivery.appio.com.mx/
-status: up
-code: 200
-responseTime: 298
-lastUpdated: 2026-02-19T16:09:06.074Z
+status: down
+code: 500
+responseTime: 250
+lastUpdated: 2026-02-19T18:00:16.475Z
 startTime: 2023-10-26T20:22:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
