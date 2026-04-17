@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 372,
-    "timeDay": 191,
-    "timeWeek": 254,
-    "timeMonth": 284,
-    "timeYear": 368,
+    "timeDay": 435,
+    "timeWeek": 284,
+    "timeMonth": 289,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2026-02-19": 354
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 389,
-    "timeDay": 314,
-    "timeWeek": 322,
-    "timeMonth": 352,
+    "time": 390,
+    "timeDay": 503,
+    "timeWeek": 348,
+    "timeMonth": 357,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-02-19": 409
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "73.77%",
+    "uptime": "73.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 905,
+    "time": 907,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-16": 127,
+      "2026-04-17": 124,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -419,8 +420,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 374,
-    "timeDay": 102,
-    "timeWeek": 172,
-    "timeMonth": 179,
+    "timeDay": 265,
+    "timeWeek": 178,
+    "timeMonth": 183,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2026-02-19": 205,
@@ -456,10 +456,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 228,
-    "timeDay": 135,
-    "timeWeek": 212,
-    "timeMonth": 239,
-    "timeYear": 226,
+    "timeDay": 203,
+    "timeWeek": 200,
+    "timeMonth": 237,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2026-03-20": 42,
       "2026-02-19": 206,
@@ -473,15 +473,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/deliveryapi.appio.com.mx.ico",
     "slug": "delivery-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 177,
-    "timeDay": 144,
+    "timeDay": 152,
     "timeWeek": 167,
-    "timeMonth": 150,
+    "timeMonth": 151,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -499,9 +499,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 193,
-    "timeDay": 194,
-    "timeWeek": 183,
-    "timeMonth": 184,
+    "timeDay": 298,
+    "timeWeek": 200,
+    "timeMonth": 189,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -518,11 +518,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 915,
-    "timeDay": 184,
-    "timeWeek": 1222,
-    "timeMonth": 2985,
-    "timeYear": 905,
+    "time": 911,
+    "timeDay": 6107,
+    "timeWeek": 2064,
+    "timeMonth": 3182,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2026-02-19": 206,
       "2025-06-12": 58
@@ -540,10 +540,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 152,
-    "timeDay": 128,
-    "timeWeek": 147,
-    "timeMonth": 144,
-    "timeYear": 149,
+    "timeDay": 140,
+    "timeWeek": 146,
+    "timeMonth": 145,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2026-02-19": 206
     }
@@ -560,10 +560,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 182,
-    "timeDay": 107,
-    "timeWeek": 186,
-    "timeMonth": 173,
-    "timeYear": 179,
+    "timeDay": 247,
+    "timeWeek": 195,
+    "timeMonth": 177,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2026-02-19": 206
     }
@@ -580,9 +580,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 152,
-    "timeDay": 109,
+    "timeDay": 143,
     "timeWeek": 149,
-    "timeMonth": 158,
+    "timeMonth": 159,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-02-19": 206
