@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 372,
-    "timeDay": 295,
-    "timeWeek": 284,
-    "timeMonth": 287,
+    "timeDay": 318,
+    "timeWeek": 291,
+    "timeMonth": 290,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2026-02-19": 354
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 389,
-    "timeDay": 339,
-    "timeWeek": 316,
-    "timeMonth": 336,
-    "timeYear": 386,
+    "timeDay": 433,
+    "timeWeek": 324,
+    "timeMonth": 344,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2026-02-19": 409
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "73.15%",
+    "uptime": "73.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 923,
+    "time": 922,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-29": 149,
+      "2026-04-30": 150,
+      "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
@@ -419,8 +420,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 376,
-    "timeDay": 146,
-    "timeWeek": 226,
-    "timeMonth": 199,
+    "timeDay": 210,
+    "timeWeek": 234,
+    "timeMonth": 200,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2026-02-19": 205
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 228,
-    "timeDay": 244,
-    "timeWeek": 234,
-    "timeMonth": 232,
+    "timeDay": 199,
+    "timeWeek": 221,
+    "timeMonth": 229,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2026-03-20": 42,
@@ -477,10 +477,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 178,
-    "timeDay": 164,
-    "timeWeek": 157,
-    "timeMonth": 159,
+    "time": 177,
+    "timeDay": 131,
+    "timeWeek": 150,
+    "timeMonth": 158,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -498,9 +498,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 194,
-    "timeDay": 181,
-    "timeWeek": 179,
-    "timeMonth": 184,
+    "timeDay": 168,
+    "timeWeek": 180,
+    "timeMonth": 182,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -518,10 +518,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 873,
-    "timeDay": 6865,
-    "timeWeek": 3950,
-    "timeMonth": 2587,
-    "timeYear": 1010,
+    "timeDay": 6247,
+    "timeWeek": 3695,
+    "timeMonth": 2788,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2026-02-19": 206,
       "2025-06-12": 58
@@ -539,9 +539,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 152,
-    "timeDay": 154,
-    "timeWeek": 138,
-    "timeMonth": 150,
+    "timeDay": 120,
+    "timeWeek": 137,
+    "timeMonth": 146,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -559,9 +559,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 182,
-    "timeDay": 191,
-    "timeWeek": 166,
-    "timeMonth": 177,
+    "timeDay": 226,
+    "timeWeek": 178,
+    "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -573,15 +573,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stagingapi.appio.com.mx.ico",
     "slug": "staging-appio-api",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 153,
-    "timeDay": 227,
-    "timeWeek": 148,
-    "timeMonth": 162,
+    "timeDay": 147,
+    "timeWeek": 150,
+    "timeMonth": 154,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-02-19": 206
