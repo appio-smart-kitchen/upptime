@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 369,
-    "timeDay": 298,
-    "timeWeek": 290,
-    "timeMonth": 284,
+    "time": 368,
+    "timeDay": 258,
+    "timeWeek": 288,
+    "timeMonth": 286,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2026-02-19": 354
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 392,
-    "timeDay": 318,
-    "timeWeek": 390,
-    "timeMonth": 369,
-    "timeYear": 382,
+    "timeDay": 335,
+    "timeWeek": 382,
+    "timeMonth": 370,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2026-02-19": 409
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registro.appio.com.mx.ico",
     "slug": "registro-appio",
     "status": "down",
-    "uptime": "72.40%",
+    "uptime": "72.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 932,
+    "time": 934,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 159,
+      "2026-05-16": 149,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -419,8 +420,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -435,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 375,
-    "timeDay": 225,
+    "timeDay": 207,
     "timeWeek": 194,
-    "timeMonth": 200,
-    "timeYear": 207,
+    "timeMonth": 204,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2026-02-19": 205
     }
@@ -455,8 +455,8 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 230,
-    "timeDay": 230,
-    "timeWeek": 282,
+    "timeDay": 151,
+    "timeWeek": 261,
     "timeMonth": 250,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -479,9 +479,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 178,
-    "timeDay": 181,
-    "timeWeek": 213,
-    "timeMonth": 172,
+    "timeDay": 197,
+    "timeWeek": 225,
+    "timeMonth": 173,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -499,9 +499,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 196,
-    "timeDay": 206,
-    "timeWeek": 182,
-    "timeMonth": 187,
+    "timeDay": 177,
+    "timeWeek": 183,
+    "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -518,10 +518,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 931,
-    "timeDay": 173,
-    "timeWeek": 3666,
-    "timeMonth": 3718,
+    "time": 930,
+    "timeDay": 169,
+    "timeWeek": 3668,
+    "timeMonth": 3717,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2026-02-19": 206,
@@ -540,9 +540,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 152,
-    "timeDay": 173,
-    "timeWeek": 132,
-    "timeMonth": 137,
+    "timeDay": 194,
+    "timeWeek": 144,
+    "timeMonth": 139,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -560,9 +560,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 181,
-    "timeDay": 115,
-    "timeWeek": 172,
-    "timeMonth": 170,
+    "timeDay": 170,
+    "timeWeek": 175,
+    "timeMonth": 172,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-02-19": 206
@@ -579,11 +579,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 153,
-    "timeDay": 159,
-    "timeWeek": 136,
-    "timeMonth": 145,
-    "timeYear": 141,
+    "time": 154,
+    "timeDay": 202,
+    "timeWeek": 149,
+    "timeMonth": 148,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2026-02-19": 206
     }
